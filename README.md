@@ -30,9 +30,7 @@
   Presto suporte e sustentação para <b>Grafana</b>, <b>Zabbix</b> e <b>GLPI</b>.<br>
   Sempre aprendendo novas ferramentas de monitoramento e automação.
 </p>
-
 <br>
-
 <!-- CONTATO — logos de marca reais -->
 <h3 align="left"> Fale comigo</h3>
 <p align="left">
@@ -43,8 +41,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DanielWillianT/DanielWillianT/output/github-contribution-grid-snake-dark.svg">
 </p>
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DanielWillianT&label=Visitas%20ao%20perfil&color=a371f7&style=flat-square" alt="visitas" />
+  </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DanielWillianT/DanielWillianT/output/github-contribution-grid-snake-dark.svg">
+</p>
 <br>
