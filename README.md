@@ -1,5 +1,7 @@
-<h1 align="center">Hello World, eu sou o Daniel 👋</h1>
-<h3 align="center">Analista de TI &amp; Monitoramento — seja muito bem-vindo</h3>
+<!-- BANNER personalizado — fica no seu repositório, nunca quebra -->
+<p align="center">
+  <img src="./assets/header.svg" alt="Daniel Willian — Analista de TI &amp; Monitoramento" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DanielWillianT&label=Visitas%20ao%20perfil&color=a371f7&style=flat-square" alt="visitas" />
