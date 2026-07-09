@@ -31,8 +31,8 @@ jobs:
           # Fuso horario
           config_timezone: America/Sao_Paulo
 
-          # Conteudo ultra-minimalista — apenas as linguagens, nada mais
-          template: classic
+          # Visual terminal escuro (combina com o perfil)
+          template: terminal
           base: ""
 
           # Linguagens mais usadas, compacto
