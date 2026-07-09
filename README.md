@@ -10,7 +10,6 @@
 <br>
 
 <!-- TECNOLOGIAS — logos oficiais -->
-<h3 align="center">🛠️ Tecnologias &amp; Ferramentas</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="46" height="46" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="46" height="46" />&nbsp;&nbsp;
