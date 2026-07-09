@@ -1,67 +1,55 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+o+Daniel+Willian+%F0%9F%91%8B;Analista+de+TI+%26+Monitoramento;Grafana+%7C+Zabbix+%7C+GLPI" alt="Daniel Willian" />
-</h1>
+<h1 align="center">Hello World, eu sou o Daniel 👋</h1>
+<h3 align="center">Analista de TI &amp; Monitoramento — seja muito bem-vindo</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanielWillianT&label=Visitas%20ao%20perfil&color=39d353&style=flat-square" alt="visitas" />
+  <img src="https://komarev.com/ghpvc/?username=DanielWillianT&label=Visitas%20ao%20perfil&color=a371f7&style=flat-square" alt="visitas" />
 </p>
 
----
+<br>
 
-### 🖥️ Sobre mim
-
-```python
-class DanielWillian:
-    def __init__(self):
-        self.area        = "Tecnologia da Informação"
-        self.foco        = "Suporte, Infraestrutura e Monitoramento"
-        self.ferramentas = ["Grafana", "Zabbix", "GLPI"]
-        self.aprendendo  = "Automação, scripts e observabilidade"
-        self.contato     = "Danielwillian@hotmail.com"
-```
-
-- 🖥️ Sempre atuei na área de **TI**, com foco em suporte e infraestrutura
-- 📈 Presto suporte e sustentação para **Grafana**, **Zabbix** e **GLPI**
-- 🌱 Sempre aprendendo novas ferramentas de monitoramento e automação
-- 📫 Fale comigo: **Danielwillian@hotmail.com**
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
+<!-- ESTATÍSTICAS + LINGUAGENS (atualizam sozinhas) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,grafana,linux,bash&theme=dark" alt="skills" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanielWillianT&show_icons=true&count_private=true&hide_border=true&title_color=a371f7&icon_color=a371f7&text_color=c3ccd6&bg_color=0d1117" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielWillianT&layout=compact&hide_border=true&title_color=a371f7&text_color=c3ccd6&bg_color=0d1117&langs_count=6" alt="linguagens mais usadas" />
 </p>
 
----
+<br>
 
-### 📊 Estatísticas do GitHub
-
+<!-- TECNOLOGIAS — logos oficiais -->
+<h3 align="center">🛠️ Tecnologias &amp; Ferramentas</h3>
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DanielWillianT&show_icons=true&count_private=true&hide_border=true&title_color=39d353&icon_color=58e6d9&text_color=c3ccd6&bg_color=0a0e14" alt="stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielWillianT&hide_border=true&background=0a0e14&ring=39d353&fire=58e6d9&currStreakLabel=39d353&sideLabels=c3ccd6&dates=8b98a5&currStreakNum=e6edf3&sideNums=e6edf3" alt="streak" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="46" height="46" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="46" height="46" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="46" height="46" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="46" height="46" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="46" height="46" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" width="46" height="46" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="46" height="46" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="46" height="46" />
 </p>
 
+<br>
+
+<!-- SOBRE -->
+<h3 align="center">🖥️ Sobre mim</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielWillianT&layout=compact&hide_border=true&title_color=39d353&text_color=c3ccd6&bg_color=0a0e14&langs_count=8" alt="top langs" />
+  Sempre atuei na área de <b>Tecnologia da Informação</b>, com foco em suporte e infraestrutura.<br>
+  Presto suporte e sustentação para <b>Grafana</b>, <b>Zabbix</b> e <b>GLPI</b>.<br>
+  🌱 Sempre aprendendo novas ferramentas de monitoramento e automação.
 </p>
 
----
+<br>
 
-### 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DanielWillianT&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="troféus" />
-</p>
-
----
-
+<!-- CONTATO — logos de marca reais -->
+<h3 align="center">📫 Fale comigo</h3>
 <p align="center">
   <a href="mailto:Danielwillian@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <em>⚡ "Monitorar é prever. Automatizar é evoluir."</em>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/DanielWillianT">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
