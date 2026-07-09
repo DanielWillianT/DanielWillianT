@@ -1,0 +1,47 @@
+name: Metrics
+
+on:
+  # Atualiza todo dia às 00h (horário de Brasília ~ 03h UTC)
+  schedule:
+    - cron: "0 3 * * *"
+  # Permite rodar manualmente pelo botão "Run workflow"
+  workflow_dispatch:
+  # Roda também quando você atualiza a branch principal
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Gerar estatisticas do perfil
+        uses: lowlighter/metrics@latest
+        with:
+          # Token criado por voce e salvo em Settings > Secrets > METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: DanielWillianT
+
+          # Arquivo de saida (fica no seu repositorio)
+          filename: github-metrics.svg
+
+          # Fuso horario
+          config_timezone: America/Sao_Paulo
+
+          # Conteudo do card de estatisticas
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          # Linguagens mais usadas (substitui o card que quebrava)
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6
+
+          # Calendario de contribuicoes (bonus visual)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
