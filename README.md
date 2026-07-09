@@ -43,5 +43,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DanielWillianT&label=Visitas%20ao%20perfil&color=a371f7&style=flat-square" alt="visitas" />
 </p>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/DanielWillianT/DanielWillianT/output/github-contribution-grid-snake.svg">
+</p>
 <br>
