@@ -24,8 +24,8 @@
 <br>
 
 <!-- SOBRE -->
-<h3 align="right">Sobre mim</h3>
-<p align="right">
+<h3 align="Left">Sobre mim</h3>
+<p align="left">
   Sempre atuei na área de <b>Tecnologia da Informação</b>, com foco em suporte e infraestrutura.<br>
   Presto suporte e sustentação para <b>Grafana</b>, <b>Zabbix</b> e <b>GLPI</b>.<br>
   Sempre aprendendo novas ferramentas de monitoramento e automação.
