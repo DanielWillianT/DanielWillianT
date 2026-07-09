@@ -34,8 +34,8 @@
 <br>
 
 <!-- CONTATO — logos de marca reais -->
-<h3 align="center"> Fale comigo</h3>
-<p align="center">
+<h3 align="left"> Fale comigo</h3>
+<p align="left">
   <a href="mailto:Danielwillian@hotmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
