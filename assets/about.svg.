@@ -1,0 +1,64 @@
+<svg width="880" height="190" viewBox="0 0 880 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="borda" x1="0" y1="0" x2="880" y2="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a371f7"/>
+      <stop offset="1" stop-color="#58e6d9"/>
+    </linearGradient>
+
+    <radialGradient id="brilho" cx="0" cy="0" r="1"
+      gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(760 20) scale(260)">
+      <stop offset="0" stop-color="#a371f7" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#a371f7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Fundo -->
+  <rect x="1" y="1" width="878" height="188" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="878" height="188" rx="18" fill="url(#brilho)"/>
+  <rect x="1" y="1" width="878" height="188" rx="18" stroke="url(#borda)" stroke-width="1.5"/>
+
+  <!-- Terminal -->
+  <circle cx="46" cy="42" r="4.5" fill="#39d353"/>
+  <text x="60"
+        y="47"
+        font-family="Consolas,'Courier New',monospace"
+        font-size="14"
+        fill="#7d8590">
+    daniel@github:~$ whoami
+  </text>
+
+  <!-- Título -->
+  <text x="44"
+        y="82"
+        font-family="Segoe UI, Ubuntu, Arial"
+        font-size="24"
+        font-weight="600"
+        fill="#f0f6fc">
+    Sobre mim
+  </text>
+
+  <!-- Texto -->
+  <g font-family="Segoe UI, Ubuntu, Arial"
+     font-size="15"
+     fill="#9aa4b2">
+
+    <circle cx="52" cy="108" r="4" fill="#a371f7"/>
+    <text x="66" y="113">
+      Profissional de Tecnologia da Informação
+    </text>
+
+    <circle cx="52" cy="132" r="4" fill="#58e6d9"/>
+    <text x="66" y="137">
+      Foco em infraestrutura e monitoramento
+    </text>
+
+    <circle cx="52" cy="156" r="4" fill="#58e6d9"/>
+    <text x="66" y="161">
+      Automação e melhoria contínua de processos
+    </text>
+
+  </g>
+
+</svg>
