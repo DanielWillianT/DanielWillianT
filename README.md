@@ -9,9 +9,9 @@
 
 <br>
 
-<!-- ESTATÍSTICAS + LINGUAGENS — geradas pela automação (GitHub Actions). Nunca quebram. -->
+<!-- STACK — card desenhado sob medida, fica no seu repositório, nunca quebra -->
 <p align="center">
-  <img src="./github-metrics.svg" alt="Estatísticas do GitHub de Daniel" width="82%" />
+  <img src="./assets/stack.svg" alt="Stack: Python, JavaScript, HTML, CSS, MySQL, Grafana, Zabbix, GLPI" width="100%" />
 </p>
 
 <br>
