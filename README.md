@@ -28,22 +28,16 @@
 <p align="center">
   Sempre atuei na área de <b>Tecnologia da Informação</b>, com foco em suporte e infraestrutura.<br>
   Presto suporte e sustentação para <b>Grafana</b>, <b>Zabbix</b> e <b>GLPI</b>.<br>
-  🌱 Sempre aprendendo novas ferramentas de monitoramento e automação.
+  Sempre aprendendo novas ferramentas de monitoramento e automação.
 </p>
 
 <br>
 
 <!-- CONTATO — logos de marca reais -->
-<h3 align="center">📫 Fale comigo</h3>
+<h3 align="center"> Fale comigo</h3>
 <p align="center">
   <a href="mailto:Danielwillian@hotmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/DanielWillianT">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 <p align="center">
