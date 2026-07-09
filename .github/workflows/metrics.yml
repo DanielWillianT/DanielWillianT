@@ -31,17 +31,16 @@ jobs:
           # Fuso horario
           config_timezone: America/Sao_Paulo
 
-          # Conteudo do card de estatisticas
+          # Conteudo enxuto — so o essencial (visual minimalista)
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
+          config_display: large
 
-          # Linguagens mais usadas (substitui o card que quebrava)
+          # Linguagens mais usadas, compacto
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css
           plugin_languages_details: percentage
-          plugin_languages_limit: 6
-
-          # Calendario de contribuicoes (bonus visual)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_languages_limit: 5
+          plugin_languages_indepth: no
+          plugin_languages_sections: most-used
