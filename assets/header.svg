@@ -1,0 +1,61 @@
+<svg width="880" height="240" viewBox="0 0 880 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="borda" x1="0" y1="0" x2="880" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a371f7"></stop>
+      <stop offset="1" stop-color="#58e6d9"></stop>
+    </linearGradient>
+    <linearGradient id="nome" x1="200" y1="100" x2="680" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c9a7ff"></stop>
+      <stop offset="0.55" stop-color="#a371f7"></stop>
+      <stop offset="1" stop-color="#58e6d9"></stop>
+    </linearGradient>
+    <radialGradient id="brilho1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(120 40) scale(300)">
+      <stop offset="0" stop-color="#a371f7" stop-opacity="0.22"></stop>
+      <stop offset="1" stop-color="#a371f7" stop-opacity="0"></stop>
+    </radialGradient>
+    <radialGradient id="brilho2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(760 220) scale(280)">
+      <stop offset="0" stop-color="#58e6d9" stop-opacity="0.16"></stop>
+      <stop offset="1" stop-color="#58e6d9" stop-opacity="0"></stop>
+    </radialGradient>
+    <pattern id="grade" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#a371f7" stroke-opacity="0.06" stroke-width="1"></path>
+    </pattern>
+  </defs>
+
+  
+
+  
+  <rect x="1" y="1" width="878" height="238" rx="18" fill="#0d1117"></rect>
+  <rect x="1" y="1" width="878" height="238" rx="18" fill="url(#grade)"></rect>
+  <rect x="1" y="1" width="878" height="238" rx="18" fill="url(#brilho1)"></rect>
+  <rect x="1" y="1" width="878" height="238" rx="18" fill="url(#brilho2)"></rect>
+  <rect x="1" y="1" width="878" height="238" rx="18" stroke="url(#borda)" stroke-width="1.5"></rect>
+
+  
+  <circle class="ponto" cx="46" cy="52" r="4.5" fill="#39d353"></circle>
+  <text x="60" y="57" font-family="Consolas, &#39;Courier New&#39;, monospace" font-size="14" fill="#7d8590">daniel@github:~$ whoami</text>
+
+  
+  <text x="44" y="122" font-family="&#39;Segoe UI&#39;, Ubuntu, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="url(#nome)">Daniel Willian</text>
+  <rect class="cursor" x="416" y="86" width="14" height="42" rx="2" fill="#a371f7"></rect>
+
+  
+  <text x="46" y="158" font-family="&#39;Segoe UI&#39;, Ubuntu, Helvetica, Arial, sans-serif" font-size="19" fill="#9aa4b2">Analista de TI · Suporte &amp; Infraestrutura · Monitoramento</text>
+
+  
+  <g class="chip">
+    <rect x="44" y="182" width="92" height="30" rx="15" fill="#a371f7" fill-opacity="0.10" stroke="#a371f7" stroke-opacity="0.45"></rect>
+    <text x="90" y="202" text-anchor="middle" font-family="Consolas, &#39;Courier New&#39;, monospace" font-size="13" fill="#c9a7ff">Grafana</text>
+  </g>
+  <g class="chip2">
+    <rect x="146" y="182" width="84" height="30" rx="15" fill="#58e6d9" fill-opacity="0.08" stroke="#58e6d9" stroke-opacity="0.4"></rect>
+    <text x="188" y="202" text-anchor="middle" font-family="Consolas, &#39;Courier New&#39;, monospace" font-size="13" fill="#58e6d9">Zabbix</text>
+  </g>
+  <g class="chip3">
+    <rect x="240" y="182" width="70" height="30" rx="15" fill="#39d353" fill-opacity="0.08" stroke="#39d353" stroke-opacity="0.4"></rect>
+    <text x="275" y="202" text-anchor="middle" font-family="Consolas, &#39;Courier New&#39;, monospace" font-size="13" fill="#39d353">GLPI</text>
+  </g>
+
+  
+  <text x="700" y="140" font-family="Consolas, &#39;Courier New&#39;, monospace" font-size="90" font-weight="700" fill="#a371f7" fill-opacity="0.14">&lt;/&gt;</text>
+</svg>
