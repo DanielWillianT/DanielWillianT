@@ -43,18 +43,5 @@
   <text x="46" y="158" font-family="&#39;Segoe UI&#39;, Ubuntu, Helvetica, Arial, sans-serif" font-size="19" fill="#9aa4b2">Analista de TI · Suporte &amp; Infraestrutura · Monitoramento</text>
 
   
-  <g class="chip">
-    <rect x="44" y="182" width="92" height="30" rx="15" fill="#a371f7" fill-opacity="0.10" stroke="#a371f7" stroke-opacity="0.45"></rect>
-  </g>
-  <g class="chip2">
-    <rect x="146" y="182" width="84" height="30" rx="15" fill="#58e6d9" fill-opacity="0.08" stroke="#58e6d9" stroke-opacity="0.4"></rect>
-    <text x="188" y="202" text-anchor="middle" font-family="Consolas, &#39;Courier New&#39;, monospace" font-size="13" fill="#58e6d9">Zabbix</text>
-  </g>
-  <g class="chip3">
-    <rect x="240" y="182" width="70" height="30" rx="15" fill="#39d353" fill-opacity="0.08" stroke="#39d353" stroke-opacity="0.4"></rect>
-    <text x="275" y="202" text-anchor="middle" font-family="Consolas, &#39;Courier New&#39;, monospace" font-size="13" fill="#39d353">GLPI</text>
-  </g>
-
-  
   <text x="700" y="140" font-family="Consolas, &#39;Courier New&#39;, monospace" font-size="90" font-weight="700" fill="#a371f7" fill-opacity="0.14">&lt;/&gt;</text>
 </svg>
