@@ -2,13 +2,6 @@
 <p align="center">
   <img src="./assets/header.svg" alt="Daniel Willian — Analista de TI &amp; Monitoramento" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanielWillianT&label=Visitas%20ao%20perfil&color=a371f7&style=flat-square" alt="visitas" />
-</p>
-
-<br>
-
 <!-- STACK — card desenhado sob medida, fica no seu repositório, nunca quebra -->
 <p align="center">
   <img src="./assets/stack.svg" alt="Stack: Python, JavaScript, HTML, CSS, MySQL, Grafana, Zabbix, GLPI" width="100%" />
@@ -54,3 +47,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DanielWillianT&label=Visitas%20ao%20perfil&color=a371f7&style=flat-square" alt="visitas" />
+</p>
+
+<br>
